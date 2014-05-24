@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "datetimepicker"
   spec.version       = Datetimepicker::VERSION
   spec.authors       = ["Douglas Pouk"]
-  spec.email         = ["doug@mudstonegroup.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.email         = ["dvboom@hotmail.com"]
+  spec.description   = %q{This gem wraps the outstanding jQuery datetimepicker by Chupurnov Valeriy}
+  spec.summary       = %q{jQuery datetimepicker by Chupurnov Valeriy}
+  spec.homepage      = "http://xdsoft.net/jqplugins/datetimepicker"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
